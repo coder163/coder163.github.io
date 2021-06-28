@@ -1,0 +1,23 @@
+{
+    "created_time": "2021-04-24T06:18:57Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "基础"
+        },
+        {
+            "name": "微服务"
+        },
+        {
+            "name": "框架"
+        },
+        {
+            "name": "进阶"
+        },
+        {
+            "name": "附录"
+        }
+    ],
+    "version": "1"
+}

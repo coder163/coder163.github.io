@@ -1,0 +1,42 @@
+{
+    "created_time": "2020-02-25T08:26:44Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-25T08:26:48Z",
+            "modified_time": "2020-02-25T08:26:48Z",
+            "name": "课程说明.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "基础编程"
+        },
+        {
+            "name": "基础进阶"
+        },
+        {
+            "name": "图像"
+        },
+        {
+            "name": "开源框架"
+        },
+        {
+            "name": "控件编程"
+        },
+        {
+            "name": "附录"
+        },
+        {
+            "name": "网络编程"
+        },
+        {
+            "name": "设计模式"
+        }
+    ],
+    "version": "1"
+}
